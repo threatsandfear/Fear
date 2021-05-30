@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-27T20:07:13-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My Website",
+      "description": "Finally!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-27T20:19:33-04:00"
+    }
+  ],
+  "collections": []
+}
