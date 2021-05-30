@@ -1,5 +1,0 @@
-The goals of this project: 
-
-1. To list all important threats to humans (e.g., car accidents, floods, etc.)
-
-2. To quanify the severity of each threat (e.g, number of people killed by a threat, number of poeple affected, etc.)
